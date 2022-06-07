@@ -28,7 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  kmtz Auto Filter V3
     
 ➥ Creator : [Naughty PROFESSOR](
 https://youtube.com/c/NaughtyPROFESSOR)
@@ -37,5 +37,5 @@ https://youtube.com/c/NaughtyPROFESSOR)
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://chat.whatsapp.com/IKGkvRMCEDb4ocbWApKkZ1)
 """
