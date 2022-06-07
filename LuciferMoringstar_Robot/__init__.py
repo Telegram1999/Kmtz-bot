@@ -31,7 +31,7 @@ ABOUT = """
 ➥ Name :  kmtz Auto Filter V3
     
 ➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+http://instagram.com/kl_02_pranav_?utm_source=qr)
 
 ➥ Language : Python3
 
